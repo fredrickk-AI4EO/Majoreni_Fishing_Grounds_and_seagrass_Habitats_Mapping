@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bookmark-na86owk",
+    "name": "Proposed seagrass restoration site 2",
+    "lng": 39.30435792702133,
+    "lat": -4.594584562492287,
+    "zoom": 15.80632247806662,
+    "pitch": 3,
+    "bearing": 0,
+    "createdAt": 1782008788639
+  },
+  {
+    "id": "bookmark-4smcke4",
+    "name": "Proposed seagrass restoration site 1",
+    "lng": 39.26907854754495,
+    "lat": -4.588094872417614,
+    "zoom": 14.817136578294848,
+    "pitch": 3,
+    "bearing": 0,
+    "createdAt": 1782008719967
+  }
+]

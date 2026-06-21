@@ -1,0 +1,9 @@
+geopandas
+pandas
+matplotlib
+leafmap
+geolibre
+folium
+mapclassify
+jupyter
+ipykernel

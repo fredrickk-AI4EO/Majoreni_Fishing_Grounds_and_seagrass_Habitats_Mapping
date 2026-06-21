@@ -1,0 +1,18 @@
+[
+  {
+    "id": "bookmark-odmlv30",
+    "name": "Proposed Seagrass Restoration Site",
+    "lng": 39.26843843912911,
+    "lat": -4.587608315951371,
+    "zoom": 14.3868745936919,
+    "pitch": 0,
+    "bearing": 0,
+    "createdAt": 1781968853847,
+    "extra": {
+      "visibleLayerIds": [
+        "basemap-google-satellite",
+        "vector-68lvpns"
+      ]
+    }
+  }
+]
